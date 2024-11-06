@@ -15,3 +15,18 @@ References for low level programming. Feel free to [create a PR](https://github.
 
 ## Free Books
 - [**Operating Systems: Three Easy Pieces**](https://pages.cs.wisc.edu/~remzi/OSTEP/)
+
+
+## Operating Systems
+
+- [**Create Operating System step by step**](https://wiki.osdev.org/Expanded_Main_Page)
+- [**Write a Kernel**](https://arjunsreedharan.org/post/82710718100/kernels-101-lets-write-a-kernel)
+
+## CPU EMULATOR
+
+* [**Building a CHIP-8 Emulator**](https://austinmorlan.com/posts/chip8_emulator/)
+
+## Interpreter and Compilers
+
+* [**Create your own programming language**](https://craftinginterpreters.com/)
+* [**Writing a C Compiler**](https://norasandler.com/2017/11/29/Write-a-Compiler.html)

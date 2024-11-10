@@ -15,12 +15,17 @@ References for low level programming. Feel free to [create a PR](https://github.
 
 ## Free Books
 - [**Operating Systems: Three Easy Pieces**](https://pages.cs.wisc.edu/~remzi/OSTEP/)
-
+- [**The Art of Assembly Language**](https://www.plantation-productions.com/Webster/www.artofasm.com/Linux/HTML/AoATOC.html)
 
 ## Operating Systems
 
 - [**Create Operating System step by step**](https://wiki.osdev.org/Expanded_Main_Page)
 - [**Write a Kernel**](https://arjunsreedharan.org/post/82710718100/kernels-101-lets-write-a-kernel)
+
+## Assembly
+
+- [**ASM Tutor[NASM]**](https://asmtutor.com/)
+- [**Assembly Tutorial - AMD64/Intel 64 bit programming**](https://github.com/mschwartz/assembly-tutorial)
 
 ## CPU EMULATOR
 

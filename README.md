@@ -16,6 +16,9 @@ References for low level programming. Feel free to [create a PR](https://github.
 ## Free Books
 - [**Operating Systems: Three Easy Pieces**](https://pages.cs.wisc.edu/~remzi/OSTEP/)
 - [**The Art of Assembly Language**](https://www.plantation-productions.com/Webster/www.artofasm.com/Linux/HTML/AoATOC.html)
+- [**Mente Binária: Aprendendo Assembly (pt-br)**](https://mentebinaria.gitbook.io/assembly)
+- [**Mente Binária: Fundamentos de Engenharia Reversa (pt-br)**](https://mentebinaria.gitbook.io/engenharia-reversa)
+- [**Mente Binária: Manual da Linguagem GNU C (pt-br)**](https://mentebinaria.gitbook.io/manual-da-linguagem-gnu-c)
 
 ## Operating Systems
 

@@ -29,6 +29,7 @@ References for low level programming. Feel free to [create a PR](https://github.
 
 - [**ASM Tutor[NASM]**](https://asmtutor.com/)
 - [**Assembly Tutorial - AMD64/Intel 64 bit programming**](https://github.com/mschwartz/assembly-tutorial)
+- [**PC Assembly Language (Book)**](http://pacman128.github.io/pcasm/)
 
 ## CPU EMULATOR
 

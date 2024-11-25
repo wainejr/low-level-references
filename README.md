@@ -24,6 +24,7 @@ References for low level programming. Feel free to [create a PR](https://github.
 
 - [**Create Operating System step by step**](https://wiki.osdev.org/Expanded_Main_Page)
 - [**Write a Kernel**](https://arjunsreedharan.org/post/82710718100/kernels-101-lets-write-a-kernel)
+- [**Awesome-Kerneldev**](https://github.com/retpolanne/awesome-kerneldev)
 
 ## Assembly
 

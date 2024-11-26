@@ -40,3 +40,8 @@ References for low level programming. Feel free to [create a PR](https://github.
 
 * [**Create your own programming language**](https://craftinginterpreters.com/)
 * [**Writing a C Compiler**](https://norasandler.com/2017/11/29/Write-a-Compiler.html)
+
+## Reconfigurable Logic (FPGA and ASIC)
+
+* [**FPGA ASIC Roadmap**](https://github.com/m3y54m/FPGA-ASIC-Roadmap)
+* [**Circuit Design and Simulation with VHDL - Volnei Pedroni (Book)**](https://edisciplinas.usp.br/pluginfile.php/8116159/mod_resource/content/1/Pedroni_2010_Circuit%20Design%20and%20Simulation%20with%20VHDL.pdf)

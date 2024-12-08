@@ -31,6 +31,7 @@ References for low level programming. Feel free to [create a PR](https://github.
 - [**ASM Tutor[NASM]**](https://asmtutor.com/)
 - [**Assembly Tutorial - AMD64/Intel 64 bit programming**](https://github.com/mschwartz/assembly-tutorial)
 - [**PC Assembly Language (Book)**](http://pacman128.github.io/pcasm/)
+- [**Intel® 64 and IA-32 Architectures Software Developer**](https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html)
 
 ## CPU EMULATOR
 
@@ -45,3 +46,11 @@ References for low level programming. Feel free to [create a PR](https://github.
 
 * [**FPGA ASIC Roadmap**](https://github.com/m3y54m/FPGA-ASIC-Roadmap)
 * [**Circuit Design and Simulation with VHDL - Volnei Pedroni (Book)**](https://edisciplinas.usp.br/pluginfile.php/8116159/mod_resource/content/1/Pedroni_2010_Circuit%20Design%20and%20Simulation%20with%20VHDL.pdf)
+
+## C/C++ Guides and recommendations
+
+* [**C/C++ Brasil**](https://github.com/cppbrasil/material-de-aprendizado)
+* [**Learning to Program with Haiku**](https://www.haiku-os.org/development/learning_to_program_with_haiku)
+
+
+

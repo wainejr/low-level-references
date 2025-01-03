@@ -53,4 +53,25 @@ References for low level programming. Feel free to [create a PR](https://github.
 * [**Learning to Program with Haiku**](https://www.haiku-os.org/development/learning_to_program_with_haiku)
 
 
+## Reverse engineering
+
+* [**Fundamentos de Engenharia Reversa**](https://mentebinaria.gitbook.io/engenharia-reversa)
+* [**GameHackAcademy**](https://gamehacking.academy/)
+* [**NSA CodeBreaker**](https://nsa-codebreaker.org/resources)
+* [**Writing Arm Assembly**](https://azeria-labs.com/writing-arm-assembly-part-1/)
+* [**Build your first LLVM Obfuscator**](https://polarply.medium.com/build-your-first-llvm-obfuscator-80d16583392b)
+* [**Malware Analysis Tutorials: a Reverse Engineering Approach**](https://fumalwareanalysis.blogspot.com/p/malware-analysis-tutorials-reverse.html)
+
+* [**Assembly# Registers, Memory Layout and Instructions**](https://n1njasec.medium.com/assembly-registers-memory-layout-and-instructions-ea9e848b2dab)
+
+* [**Reverse engineering with radare2**](https://artik.blue/reversing)
+
+## Malware Development 
+
+* [**The(Anti-)EDR Compendium**](https://blog.deeb.ch/posts/how-edr-works/#intro)
+
+
+
+
+
 

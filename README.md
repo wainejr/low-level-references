@@ -41,6 +41,11 @@ References for low level programming. Feel free to [create a PR](https://github.
 
 * [**Create your own programming language**](https://craftinginterpreters.com/)
 * [**Writing a C Compiler**](https://norasandler.com/2017/11/29/Write-a-Compiler.html)
+* [**Writing An Interpreter with Golang**](https://interpreterbook.com/)
+* [**Writing A compiler with Golang**](https://compilerbook.com/)
+* [**C++ - Kaleidoscope: Implementing a language with LLVM**](https://llvm.org/docs/tutorial/index.html)
+* [**C - A compiler writing journey**](https://github.com/DoctorWkt/acwj/tree/master)
+
 
 ## Reconfigurable Logic (FPGA and ASIC)
 

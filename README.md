@@ -75,6 +75,11 @@ References for low level programming. Feel free to [create a PR](https://github.
 
 * [**The(Anti-)EDR Compendium**](https://blog.deeb.ch/posts/how-edr-works/#intro)
 
+* [**OffensiveRust**](https://github.com/trickster0/OffensiveRust)
+
+* [**OffensiveZig**](https://github.com/darkr4y/OffensiveZig)
+
+* [**MalwareSourceCode**](https://github.com/vxunderground/MalwareSourceCode)
 
 
 

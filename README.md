@@ -48,7 +48,6 @@ References for low level programming. Feel free to [create a PR](https://github.
 * [**C++ - Kaleidoscope: Implementing a language with LLVM**](https://llvm.org/docs/tutorial/index.html)
 * [**C - A compiler writing journey**](https://github.com/DoctorWkt/acwj/tree/master)
 
-
 ## Reconfigurable Logic (FPGA and ASIC)
 
 * [**FPGA ASIC Roadmap**](https://github.com/m3y54m/FPGA-ASIC-Roadmap)
@@ -58,6 +57,7 @@ References for low level programming. Feel free to [create a PR](https://github.
 
 * [**C/C++ Brasil**](https://github.com/cppbrasil/material-de-aprendizado)
 * [**Learning to Program with Haiku**](https://www.haiku-os.org/development/learning_to_program_with_haiku)
+* [**Guia completo linguagem C**](https://xumaquer.github.io/mdbook-linguagem-c/)
 
 
 ## Reverse engineering
